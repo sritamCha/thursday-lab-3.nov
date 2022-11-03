@@ -32,4 +32,4 @@ public class prime {
 	    }
 	  }
 	}
-//Himanshu gaurav Toppo - Dated:3 November Lab Programs//
+//sritam chauhan - Dated:3 November Lab Programs//
